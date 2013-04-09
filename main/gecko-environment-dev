@@ -1,0 +1,11 @@
+Package: gecko-environment-dev
+Version: 0.0.2
+Section: main
+Priority: optional
+Architecture: amd64
+Depends: libasound2-dev, libcurl4-openssl-dev, libnotify-dev, libxt-dev, libiw-dev, libidl-dev, mesa-common-dev, autoconf2.13, yasm, libgtk2.0-dev, libdbus-1-dev, libdbus-glib-1-dev, python-dev
+Recommends: mercurial
+Maintainer: Fernando Rodríguez Sela
+Description: Gecko Development environment
+ A meta package to install all Gecko build dependencies.
+
