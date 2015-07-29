@@ -1,9 +1,9 @@
 Package: gecko-environment-dev
-Version: 0.0.4-40
+Version: 0.0.4-42
 Section: main
 Priority: optional
 Architecture: amd64
-Depends: libasound2-dev, libcurl4-openssl-dev, libnotify-dev, libxt-dev, libiw-dev, libidl-dev, mesa-common-dev, autoconf2.13, yasm, libgtk2.0-dev, libdbus-1-dev, libdbus-glib-1-dev, python-dev, unzip, zip, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev, libgconf2-dev, lzop
+Depends: libasound2-dev, libcurl4-openssl-dev, libnotify-dev, libxt-dev, libiw-dev, libidl-dev, mesa-common-dev, autoconf2.13, yasm, libgtk2.0-dev, libdbus-1-dev, libdbus-glib-1-dev, python-dev, unzip, zip, libgstreamer0.10-dev, libgstreamer-plugins-base0.10-dev, libgconf2-dev, lzop, libgtk-3-dev
 Recommends: mercurial
 Maintainer: Fernando Rodríguez Sela
 Description: Gecko Development environment
